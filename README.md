@@ -54,7 +54,8 @@ There are several things to consider in the root directory of a repository.
 3. Name `DOCUMENTS` with uppercase letters, these are for humans
 4. Use as few dot `.files` as you can - e.g. `ls` commands hides dot files by default
 
-So your root will be clean, and you can differentiate configuration files from documents at a glance.
+So your root will be clean,
+and you can differentiate configuration files from documents at a glance.
 
 ---
 
