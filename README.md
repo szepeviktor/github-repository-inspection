@@ -4,7 +4,7 @@
 
 1. Each project should have a separate repository and GitHub Issues
 1. Set repository details in top right corner: About :gear:
-1. Set up environments: match branch and enviroment names
+1. Set up environments: match branch and environment names
 1. Make commits with proper email address registered here on GitHub
 
 ## The very first commit
