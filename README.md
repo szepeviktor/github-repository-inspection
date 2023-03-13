@@ -57,6 +57,14 @@ There are several things to consider in the root directory of a repository.
 So your root will be clean,
 and you can differentiate configuration files from documents at a glance.
 
+## Support my work
+
+Please consider supporting my work as these lists take years to compile.
+
+[![Sponsor](https://github.com/szepeviktor/.github/raw/master/.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
+
+Thank you!
+
 ---
 
 ## Requirements
