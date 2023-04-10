@@ -16,6 +16,8 @@ otherwise add `LICENSE` file (MIT) with message "Initial commit"
 
 ## Documents and configuration files
 
+Check [community standards](https://github.com/szepeviktor/github-repository-inspection/community)
+
 1. Community health files
 1. Add [configuration files and documents](#naming-files-in-the-root-directory)
 1. Include Requirements, Installation, Configuration,
