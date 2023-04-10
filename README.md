@@ -9,10 +9,10 @@
 
 ## The very first commit
 
-1. If the project starts with a sample application or starter package
-    make the first commit with the same content and with commit message
-    "vendor-name/sample-app v1.2.3"
-    otherwise add `LICENSE` file (MIT) with message "Initial commit"
+If the project starts with a sample application or starter package
+make the first commit with the same content and with commit message
+"vendor-name/sample-app v1.2.3"
+otherwise add `LICENSE` file (MIT) with message "Initial commit"
 
 ## Documents and configuration files
 
