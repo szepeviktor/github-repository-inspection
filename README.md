@@ -1,5 +1,7 @@
 # How to inspect a GitHub repository
 
+[![theories](https://img.shields.io/badge/more-theories-purple)](https://github.com/stars/szepeviktor/lists/theory)
+
 ## Git version control
 
 1. Each project should have a separate repository and GitHub Issues
