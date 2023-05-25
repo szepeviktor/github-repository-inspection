@@ -27,7 +27,7 @@ Check [community standards](https://github.com/szepeviktor/github-repository-ins
 1. Set editor/IDE configuration in `.editorconfig`
 1. List ignored files in `.gitignore`
     - Do not keep downloaded or generated code in the repository
-    - List ignored OS, IDE and local enviroment files
+    - List ignored OS, IDE and local environment files
         in `git config --global core.excludesFile ~/.gitignore`
 1. List files not intended to be distributed (`export-ignore`)
     in ZIP archives and list
