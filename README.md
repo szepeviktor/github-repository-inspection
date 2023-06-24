@@ -47,6 +47,7 @@ Check [community standards](https://github.com/szepeviktor/github-repository-ins
 1. Use Pull Requests to send code to the repository
 1. Review Pull Requests even when working alone
 1. Tag releases
+1. Follow a release checklist
 
 See also
 [Cleaning Lady Check list :broom::woman::memo:](https://web.archive.org/web/20200831185120/https://tomasvotruba.com/cleaning-lady-checklist/)
