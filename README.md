@@ -1,4 +1,4 @@
-# How to inspect a GitHub repository
+<h1>How to inspect a GitHub repository</h1>
 
 [![theories](https://img.shields.io/badge/more-theories-purple)](https://github.com/stars/szepeviktor/lists/theory)
 
